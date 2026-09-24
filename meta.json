@@ -1,0 +1,23 @@
+{
+  "repo": "openrgb-advanced",
+  "product": "OpenRGB Advanced",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "openrgb",
+    "openrgb-windows",
+    "system-tools-desktop",
+    "how-to-install-openrgb",
+    "openrgb-desktop-package",
+    "openrgb-workspace",
+    "openrgb-pro-tools",
+    "openrgb-suite",
+    "zentool-openrgb",
+    "openrgb-tool-9"
+  ],
+  "site": "zentool.art"
+}
